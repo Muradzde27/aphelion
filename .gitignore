@@ -31,3 +31,6 @@ playwright-report
 
 # design sources (not part of the app)
 *.zip
+
+.vercel
+.env*

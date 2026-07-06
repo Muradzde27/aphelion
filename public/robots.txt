@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aphelion.travel/sitemap.xml
+Sitemap: https://aphelion-muradzde.vercel.app/sitemap.xml

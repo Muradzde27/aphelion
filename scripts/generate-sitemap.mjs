@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, '..');
 const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'src', 'data', f), 'utf8'));
 
-const ORIGIN = 'https://aphelion.travel';
+const ORIGIN = process.env.SITE_ORIGIN || 'https://aphelion-muradzde.vercel.app';
 
 const staticRoutes = [
   '/',
