@@ -4,6 +4,11 @@
 A multi-page editorial site for a fictional astro-tourism studio — built to read like a printed
 almanac, not a travel funnel.
 
+**Live: [aphelion-muradzde.vercel.app](https://aphelion-muradzde.vercel.app)** · try the
+[red-light mode](https://aphelion-muradzde.vercel.app), the
+[season catalogue](https://aphelion-muradzde.vercel.app/expeditions) and
+[the system](https://aphelion-muradzde.vercel.app/system).
+
 ![Aphelion — the cover](docs/cover.jpg)
 
 Warm paper, ink, one rust accent. Serif display type, hairline rules, numbered sections, and a
@@ -127,6 +132,8 @@ accordion; labelled fields with inline errors; AA contrast in both themes; all m
 under `prefers-reduced-motion`.
 
 ## Deploying
+
+The production site runs on Vercel: [aphelion-muradzde.vercel.app](https://aphelion-muradzde.vercel.app).
 
 - **Vercel** — zero config: SPA rewrites, security headers and the serverless enquiry endpoint
   are already wired in `vercel.json` and `api/`. Build `npm run build`, output `dist`.
