@@ -1,0 +1,80 @@
+/* ---------------------------------------------------------------------------
+   Aphelion — design tokens.
+   The house style in numbers: near-monochrome warm paper, one rust accent,
+   rules instead of boxes. Documented in full at /system.
+--------------------------------------------------------------------------- */
+
+:root {
+  /* colour — near monochrome, one accent */
+  --paper: #f4f1ea;
+  --paper-dim: #ede9e0;
+  --ink: #14140f;
+  --ink-photo: #26251f; /* duotone base */
+  --ink-body: #33322a;
+  --ink-mid: #4a463c;
+  --grey: #6b6558; /* secondary text */
+  --faint: #726c5c; /* meta, captions — darkest value that still reads quiet (AA 4.5:1 on paper) */
+  --rust: #b3502b; /* accent — rare */
+  --scroll-thumb: #c9c2b2;
+
+  /* rules & lines — derived from ink so the night theme inherits them */
+  --hairline: color-mix(in srgb, var(--ink) 15%, transparent);
+  --hairline-soft: color-mix(in srgb, var(--ink) 10%, transparent);
+  --hairline-strong: color-mix(in srgb, var(--ink) 20%, transparent);
+  --line-08: color-mix(in srgb, var(--ink) 8%, transparent);
+  --line-12: color-mix(in srgb, var(--ink) 12%, transparent);
+  --line-25: color-mix(in srgb, var(--ink) 25%, transparent);
+  --line-30: color-mix(in srgb, var(--ink) 30%, transparent);
+  --rule: var(--ink); /* full-ink 1px rule */
+
+  /* type */
+  --serif: 'Newsreader', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --sans: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+
+  /* spacing — 8px base */
+  --s1: 8px;
+  --s2: 16px;
+  --s3: 24px;
+  --s4: 32px;
+  --s5: 40px;
+  --s6: 48px;
+  --s8: 64px;
+  --s12: 96px;
+
+  /* layout */
+  --max: 1360px;
+  --gutter: clamp(20px, 4vw, 64px);
+  --header-h: 66px;
+
+  /* shape — 2px only; shadows: none */
+  --radius: 2px;
+
+  /* motion */
+  --ease: cubic-bezier(0.2, 0.6, 0.2, 1);
+}
+
+/* ---------------------------------------------------------------------------
+   Night — the red-light mode.
+   Field astronomers work under red lamps to keep their dark adaptation;
+   this theme does the same for the reader: graphite paper, dim warm text,
+   the rust accent turned up a step. Toggled from the header, persisted in
+   localStorage, applied before first paint by the inline script in
+   index.html.
+--------------------------------------------------------------------------- */
+:root[data-theme='night'] {
+  --paper: #131110;
+  --paper-dim: #1a1715;
+  --ink: #e6ddcb;
+  --ink-photo: #d9d0bd;
+  --ink-body: #c8bea9;
+  --ink-mid: #b0a58e;
+  --grey: #8f8571;
+  --faint: #8f8776; /* lighter at night for the same AA contrast on graphite */
+  --rust: #cf6437;
+  --scroll-thumb: #3a352e;
+}
+
+:root[data-theme='night'] .ph img {
+  /* deeper, redder photographs — the lamp is on */
+  filter: grayscale(0.9) sepia(0.35) hue-rotate(-18deg) contrast(1.05) brightness(0.66);
+}

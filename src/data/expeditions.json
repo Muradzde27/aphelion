@@ -1,0 +1,395 @@
+[
+  {
+    "id": "lofoten-nights",
+    "no": "01",
+    "name": "The Lofoten Nights",
+    "kind": "aurora",
+    "place": "Lofoten, Norway",
+    "region": "Arctic Norway",
+    "nights": "6 nights",
+    "months": "Oct–Feb",
+    "price": "€3,200",
+    "photo": "dusk",
+    "bortle": "Bortle 2",
+    "nextDate": "9 November 2026",
+    "groupLeft": "4 of 12",
+    "lead": "Fishing villages under the auroral oval, where green light falls between granite peaks and the sea gives it back doubled.",
+    "overview": "Six nights on Moskenesøya, deep inside the auroral oval, where the lights stand directly overhead rather than as a rumour on the horizon. We time the departure to the new moon and keep the plan deliberately loose: the villages sit twenty minutes apart, each with a different horizon, and each night we drive to whichever sky is open. Days are short and slow — coffee, cod racks, granite, surf. Nights are long, and they belong to the watch. When the cloud wins, and some nights it will, we use the time: lectures on the physics of the oval, darkroom sessions, and the patience the Arctic insists on.",
+    "itinerary": [
+      {
+        "d": "Day 1",
+        "t": "Arrival at Leknes",
+        "x": "Transfer along the E10 to Reine. Orientation over dinner: how we read the forecast, and why the plan for the night is never announced before eight o'clock."
+      },
+      {
+        "d": "Day 2",
+        "t": "The sky school",
+        "x": "A daylight walk below Reinebringen, then camera setup — focus at infinity by hand, exposure, and where to stand. First watch from the harbour wall if the sky opens."
+      },
+      {
+        "d": "Day 3",
+        "t": "Fredvang and the beaches",
+        "x": "The sea-facing sand at Skagsanden holds the darkest northern horizon on the islands. We watch from the tideline; on a still night the aurora arrives doubled in the wet sand."
+      },
+      {
+        "d": "Day 4",
+        "t": "The reserve night",
+        "x": "Kept empty on purpose. Clear — we drive to whichever horizon the forecast favours. Cloud — Nusfjord, the oldest fishing village in Norway, and a long lecture on the auroral oval."
+      },
+      {
+        "d": "Day 5",
+        "t": "Uttakleiv",
+        "x": "The principal night, on the headland the photographers keep to themselves. We stay out as long as the sky and the group can bear it, with soup at midnight from the van."
+      },
+      {
+        "d": "Day 6",
+        "t": "Last light and departure",
+        "x": "A slow morning, the exchange of the week's frames, transfer to Leknes. Edited photographs follow by post within a fortnight."
+      }
+    ],
+    "included": [
+      "Five nights in rorbu cabins, shared in pairs",
+      "All ground transfers from Leknes airport",
+      "A working astronomer and a photographic guide",
+      "Tripods, spare batteries and thermal suits",
+      "Breakfasts, and late suppers on watch nights",
+      "A reserve night — and the discipline to use it"
+    ],
+    "excluded": ["Flights to Leknes", "Travel insurance", "Lunches", "Single-cabin supplement"]
+  },
+  {
+    "id": "atacama",
+    "no": "02",
+    "name": "Atacama, the Driest Sky",
+    "kind": "darksky",
+    "place": "Atacama, Chile",
+    "region": "Northern Chile",
+    "nights": "7 nights",
+    "months": "Mar–Nov",
+    "price": "€4,100",
+    "photo": "dune",
+    "bortle": "Bortle 1",
+    "nextDate": "8 October 2026",
+    "groupLeft": "7 of 12",
+    "lead": "The clearest air on the planet. Here the Milky Way is bright enough to cast a shadow across the salt.",
+    "overview": "Seven nights around San Pedro de Atacama at 2,400 metres, in the driest air on Earth — three hundred clear nights a year, and a Milky Way bright enough to throw a shadow on the salt flat. The programme climbs slowly: nothing above 3,000 metres in the first three days, because the sky is no reward for a headache. The southern objects — the Magellanic Clouds, Eta Carinae, the dark shapes the Atacameño people read as constellations of absence — never rise for northern travellers at home. They are the reason to come this far.",
+    "itinerary": [
+      {
+        "d": "Day 1",
+        "t": "Calama and the descent",
+        "x": "Flight to Calama, transfer down to San Pedro at 2,400 metres. Rest, water, and no plans — the first day belongs to the altitude."
+      },
+      {
+        "d": "Day 2",
+        "t": "Acclimatisation",
+        "x": "Valle de la Luna on foot at dusk, then a first short session at the lodge. Naked eye only: learning the southern sky's directions before we bring out glass."
+      },
+      {
+        "d": "Day 3",
+        "t": "The salt flat",
+        "x": "Laguna Cejar by day. The first full telescope night south of town; the Magellanic Clouds clear the horizon after midnight, and we stay up for them."
+      },
+      {
+        "d": "Day 4",
+        "t": "ALMA by day",
+        "x": "A daytime visit to the ALMA Operations Support Facility at 2,900 metres. The high site at 5,000 metres is closed to visitors — no tour can change that, and we say so plainly."
+      },
+      {
+        "d": "Day 5",
+        "t": "The principal night",
+        "x": "On the plateau with the 50-centimetre Dobsonian: Eta Carinae, the Jewel Box, the southern globulars, until the sky begins to turn."
+      },
+      {
+        "d": "Day 6",
+        "t": "The dark constellations",
+        "x": "A siesta day by design. After dark, a lecture under the sky itself on Andean astronomy — the constellations drawn in dust, not stars."
+      },
+      {
+        "d": "Day 7",
+        "t": "El Tatio at dawn",
+        "x": "An optional four a.m. drive to the geyser field at 4,320 metres for those fully acclimatised. A short, quiet closing session after dinner."
+      },
+      {
+        "d": "Day 8",
+        "t": "Departure",
+        "x": "Transfer to Calama. The frames travel home with you; the processed set follows within two weeks."
+      }
+    ],
+    "included": [
+      "Seven nights in an adobe guesthouse in San Pedro",
+      "Transfers from and to Calama airport",
+      "A working astronomer as guide",
+      "A 50 cm Dobsonian, refractors and binoculars",
+      "Breakfasts and evening meals",
+      "A written acclimatisation plan, and oxygen in the van"
+    ],
+    "excluded": [
+      "Flights to Calama",
+      "Travel insurance",
+      "Lunches",
+      "El Tatio park entrance (optional morning)"
+    ]
+  },
+  {
+    "id": "la-palma",
+    "no": "03",
+    "name": "La Palma Observatories",
+    "kind": "observatory",
+    "place": "La Palma, Canary Is.",
+    "region": "Atlantic",
+    "nights": "5 nights",
+    "months": "All year",
+    "price": "€2,700",
+    "photo": "dome",
+    "bortle": "Bortle 2",
+    "nextDate": "11 December 2026",
+    "groupLeft": "2 of 10",
+    "lead": "Behind the doors of the great telescopes at Roque de los Muchachos, above a sea of trade-wind cloud.",
+    "overview": "Five nights on the island whose sky is protected by law — the 1988 Ley del Cielo, which dims the streetlamps, buries the cables and keeps the air above the Roque de los Muchachos clean for the telescopes. By day we go where visitors rarely do: inside the Gran Telescopio Canarias, the largest single-aperture telescope in the world. By night we run our own instruments from Llano del Jable, a volcanic plateau above the trade-wind cloud. One thing said plainly: the observatory does not open at night, because the professionals are working. Watching the domes open at sunset and then driving down to our own eyepieces is, we think, the more honest ritual anyway.",
+    "itinerary": [
+      {
+        "d": "Day 1",
+        "t": "Arrival at Santa Cruz",
+        "x": "Transfer across the ridge to El Paso. Orientation on the terrace, and a bare-eye tour of the winter sky if the night is clear."
+      },
+      {
+        "d": "Day 2",
+        "t": "The caldera rim",
+        "x": "A morning walk on the rim of the Caldera de Taburiente. First working night at Llano del Jable, 1,340 metres, learning the sky above the cloud sea."
+      },
+      {
+        "d": "Day 3",
+        "t": "The Roque by day",
+        "x": "Up to 2,396 metres: inside the GTC dome, the segmented mirror from the service floor, the MAGIC reflectors. We stay for sunset above the clouds, then descend for a short session."
+      },
+      {
+        "d": "Day 4",
+        "t": "South to the salt",
+        "x": "The salt pans and twin lighthouses of Fuencaliente. The principal night — deep sky with a 40-centimetre instrument alongside members of the island's astronomy society."
+      },
+      {
+        "d": "Day 5",
+        "t": "The old north",
+        "x": "Dragon trees at Las Tricias and the silence of the northwest. A last, unhurried night; whatever the week has not yet given, we ask for now."
+      },
+      {
+        "d": "Day 6",
+        "t": "Departure",
+        "x": "A slow breakfast and the transfer back to Santa Cruz de La Palma."
+      }
+    ],
+    "included": [
+      "Five nights in a small hotel in El Paso",
+      "All transfers by minibus",
+      "A former Roque telescope operator as guide",
+      "Daytime observatory permits, GTC included",
+      "Telescopes, binoculars and star charts",
+      "Breakfasts and evening meals"
+    ],
+    "excluded": ["Flights to La Palma", "Travel insurance", "Lunches", "Single-room supplement"]
+  },
+  {
+    "id": "iceland-rift",
+    "no": "04",
+    "name": "Iceland, the Rift Sky",
+    "kind": "aurora",
+    "place": "Þingvellir, Iceland",
+    "region": "Mid-Atlantic Ridge",
+    "nights": "6 nights",
+    "months": "Sep–Mar",
+    "price": "€3,500",
+    "photo": "ice",
+    "bortle": "Bortle 2",
+    "nextDate": "6 February 2027",
+    "groupLeft": "9 of 12",
+    "lead": "Glaciers, black sand and hot springs beneath a sky that moves. Photographic mentoring on every clear night.",
+    "overview": "Six nights between the tectonic plates, from Þingvellir to the glacier lagoon — a route built for two skies: the aurora above, and the darkest foregrounds in the North Atlantic below. Iceland's weather is the worst promise-keeper in this catalogue, and we counter it the only way that works: three bases instead of one, a forecast read twice a day, and the willingness to drive two hours at ten in the evening. Photographic mentoring runs on every clear night. When the cloud closes in, there are lava fields, hot pools, and the long story of a parliament founded in a rift valley.",
+    "itinerary": [
+      {
+        "d": "Day 1",
+        "t": "Keflavík to the rift",
+        "x": "Transfer to Þingvellir. The rift on foot before dark — the one place you can stand between two plates — then the first forecast briefing over dinner."
+      },
+      {
+        "d": "Day 2",
+        "t": "The lake horizon",
+        "x": "Camera school in the afternoon: exposure, focus, and the discipline of a fixed tripod. First watch over Þingvallavatn, the largest natural lake in the country."
+      },
+      {
+        "d": "Day 3",
+        "t": "South to Vík",
+        "x": "The black sand at Reynisfjara in late light — watched from the dune line, never the surf. Night watch above the village, where the cliffs block the town's few lamps."
+      },
+      {
+        "d": "Day 4",
+        "t": "The lagoon",
+        "x": "Jökulsárlón: icebergs by day and, if the sky opens, aurora over drift ice at night — the single best foreground in the country, and worth the whole trip on its own."
+      },
+      {
+        "d": "Day 5",
+        "t": "The reserve day",
+        "x": "Held loose on purpose. A walk under Skaftafell's glacier tongues or a hot pool, and the principal night wherever the evening forecast points the van."
+      },
+      {
+        "d": "Day 6",
+        "t": "West again",
+        "x": "The slow road back, ending at Hvalfjörður — the quiet fjord an hour from the airport. A final watch, and the exchange of frames after midnight."
+      },
+      {
+        "d": "Day 7",
+        "t": "Departure",
+        "x": "Transfer to Keflavík. Sleep on the plane; you will have earned it."
+      }
+    ],
+    "included": [
+      "Six nights in guesthouses across three bases",
+      "A 4×4 minibus and all fuel",
+      "An astronomer and a photographic mentor",
+      "Tripods, thermal suits and headlamps (red)",
+      "Breakfasts and evening meals",
+      "The twice-daily forecast briefing"
+    ],
+    "excluded": ["Flights to Keflavík", "Travel insurance", "Lunches", "Hot-spring entrances"]
+  },
+  {
+    "id": "namibrand",
+    "no": "05",
+    "name": "NamibRand Dark Reserve",
+    "kind": "darksky",
+    "place": "NamibRand, Namibia",
+    "region": "Southern Africa",
+    "nights": "9 nights",
+    "months": "Apr–Sep",
+    "price": "€5,400",
+    "photo": "salt",
+    "bortle": "Bortle 1",
+    "nextDate": "12 May 2027",
+    "groupLeft": "5 of 12",
+    "lead": "Africa's first International Dark Sky Reserve. Dunes, the silence of the Namib, and the southern sky entire.",
+    "overview": "Nine nights in Africa's first International Dark Sky Reserve, where the nearest permanent light is beyond the horizon in every direction. This is the slowest expedition we run, and deliberately so: the Namib does not reveal itself to a schedule. We split the time between a dune camp inside the reserve and a mountain camp at its edge, and give the southern sky the hours it deserves — the Magellanic Clouds, the zodiacal light rising like a second dusk, and in winter the galactic core passing straight overhead. It is a long way to go. We think the distance is the point.",
+    "itinerary": [
+      {
+        "d": "Days 1–2",
+        "t": "Windhoek and the road south",
+        "x": "One town night to land properly, then five hours of gravel road into the reserve. The first sky comes free, from a camp chair, before anyone unpacks a telescope."
+      },
+      {
+        "d": "Day 3",
+        "t": "Reading the reserve",
+        "x": "Fairy circles, oryx, and the reserve's light-management plan — the paperwork that keeps this sky black, and the reason we are here. A naked-eye night, learning south."
+      },
+      {
+        "d": "Day 4",
+        "t": "The dunes",
+        "x": "Red sand in the last hour of light, then a night at the dune foot. The zodiacal light shows before dawn for anyone still awake, and someone always is."
+      },
+      {
+        "d": "Day 5",
+        "t": "Principal night, first",
+        "x": "Telescope work in earnest: Omega Centauri, 47 Tucanae, the southern globulars — objects that never clear a European horizon at any hour of any year."
+      },
+      {
+        "d": "Day 6",
+        "t": "Rest, then long exposure",
+        "x": "A slow day in camp. After dark, an astrophotography night with the mentor — star trails over the dunes, and the patience they require."
+      },
+      {
+        "d": "Day 7",
+        "t": "To the mountain camp",
+        "x": "We move to the granite edge of the reserve. Sundowner on the ridge, and a horizon that runs unbroken through all three hundred and sixty degrees."
+      },
+      {
+        "d": "Day 8",
+        "t": "Principal night, second",
+        "x": "In winter the core of the Milky Way crosses the zenith near midnight. We plan the whole expedition around this night, and then try not to talk during it."
+      },
+      {
+        "d": "Day 9",
+        "t": "Sossusvlei at dawn",
+        "x": "An early excursion outside the reserve to the great dunes — they are busy by nine, so we are there at six. A quiet last night in camp."
+      },
+      {
+        "d": "Day 10",
+        "t": "The road back",
+        "x": "North to Windhoek through the day, and the flight home. The silence takes a while to wear off; let it."
+      }
+    ],
+    "included": [
+      "Nine nights — one in Windhoek, eight in reserve camps",
+      "All overland travel from Windhoek",
+      "A working astronomer as guide",
+      "Telescopes, binoculars and camp equipment",
+      "All meals inside the reserve",
+      "The NamibRand conservation levy"
+    ],
+    "excluded": [
+      "Flights to Windhoek",
+      "Travel insurance",
+      "Meals in Windhoek",
+      "Sossusvlei park entrance"
+    ]
+  },
+  {
+    "id": "mauna-kea",
+    "no": "06",
+    "name": "Mauna Kea Summits",
+    "kind": "observatory",
+    "place": "Hawai‘i, USA",
+    "region": "Pacific",
+    "nights": "5 nights",
+    "months": "All year",
+    "price": "€3,900",
+    "photo": "ridge",
+    "bortle": "Bortle 2",
+    "nextDate": "15 January 2027",
+    "groupLeft": "6 of 10",
+    "lead": "Four thousand metres above the ocean, a row of the world's greatest telescopes, and sunset above the cloud.",
+    "overview": "Five nights on Hawai‘i Island, built around the mountain that carries more large telescopes than any other point on Earth. The honest part first: the summit at 4,205 metres closes to visitors after dark, and no tour can change that. What we can do is this — sunset on the summit ridge among the domes as they open for the night's work, then a descent to 2,800 metres, where the sky above the old Visitor Station is itself among the best in the northern hemisphere. Days go indoors and backwards in time: the Keck headquarters in Waimea, and ‘Imiloa's archive of Polynesian wayfinding — the oldest applied astronomy there is.",
+    "itinerary": [
+      {
+        "d": "Day 1",
+        "t": "Hilo",
+        "x": "Arrival on the rain-forest side of the island. Orientation over dinner, and an early night — the altitude schedule starts tomorrow."
+      },
+      {
+        "d": "Day 2",
+        "t": "Wayfinding",
+        "x": "‘Imiloa Astronomy Center, and a lecture on Polynesian navigation — steering by star lines centuries before the sextant. First night session at 2,800 metres."
+      },
+      {
+        "d": "Day 3",
+        "t": "The summit at sunset",
+        "x": "A slow ascent with a full hour's acclimatisation stop. Sunset at 4,205 metres among Keck, Subaru and Gemini as their shutters open, then down to the eyepieces below."
+      },
+      {
+        "d": "Day 4",
+        "t": "Keck by day, lava by night",
+        "x": "The Keck control room in Waimea, where the mountain is operated from sea level. After dark, a session on the Mauna Loa flank — a lava-field horizon, black in every direction."
+      },
+      {
+        "d": "Day 5",
+        "t": "The principal night",
+        "x": "A free day on the coast or in the Kaumana lava tubes, then the longest night of the week at the Visitor Station with the 14-inch."
+      },
+      {
+        "d": "Day 6",
+        "t": "Departure",
+        "x": "Down to Hilo for the morning flight, or stay on — the island does not run on our schedule, and we can help you extend."
+      }
+    ],
+    "included": [
+      "Five nights at a small inn in Hilo",
+      "4×4 transfers with saddle-road permits",
+      "A working astronomer as guide",
+      "A 14-inch telescope, binoculars and parkas",
+      "Breakfasts",
+      "All observatory and centre admissions"
+    ],
+    "excluded": [
+      "Flights to Hilo",
+      "Travel insurance",
+      "Lunches and dinners — Hilo's restaurants beat any set menu",
+      "Summit access after dark — nobody can sell you that"
+    ]
+  }
+]

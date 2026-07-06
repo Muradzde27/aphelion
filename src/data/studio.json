@@ -1,0 +1,62 @@
+{
+  "established": "Est. Tromsø, 2014",
+  "address": ["Storgata 42", "9008 Tromsø, Norway"],
+  "email": "hello@aphelion.travel",
+  "phone": "+47 902 14 880",
+  "heroCaption": "The studio in Tromsø, 69°N — the northern edge of the working season.",
+  "mission": {
+    "lead": "Aphelion began in 2014, out of one sleepless night in Lapland, when the founder understood that the sky we lose in cities is worth travelling to the end of the earth to find.",
+    "body": [
+      "Four in five people alive today can no longer see the Milky Way from home. We believe that a genuinely dark sky is not a luxury but a reminder — of scale, of time, of where exactly we are. So we do not run large departures. We gather small groups, find the best nights of the year, and let the sky do the rest.",
+      "Twelve years and two thousand travellers later, the principle has not changed."
+    ]
+  },
+  "values": [
+    {
+      "no": "01",
+      "t": "Darkness is a resource",
+      "x": "We work only where the night is protected, and we support the reserves that keep it that way. A dark sky, once spent, does not come back."
+    },
+    {
+      "no": "02",
+      "t": "Science, without the snobbery",
+      "x": "Real astronomy, told plainly enough for an eight-year-old and precisely enough for a professor. No dumbing down, no showing off."
+    },
+    {
+      "no": "03",
+      "t": "Small, and slow",
+      "x": "Twelve travellers, an unhurried week, time to be quiet. The experience matters more than the itinerary's length."
+    },
+    {
+      "no": "04",
+      "t": "Of the place",
+      "x": "Local guides, local lodges, and a carbon compensation on every departure. We try to leave the horizon as we found it."
+    }
+  ],
+  "guides": [
+    {
+      "name": "Elsa Valtonen",
+      "role": "Founder · Astrophysicist",
+      "photo": "portrait",
+      "bio": "Twelve years chasing the aurora from Tromsø to the Yukon. PhD in magnetospheric physics; she still keeps the logbook by hand."
+    },
+    {
+      "name": "Mateo Reyes",
+      "role": "Lead guide · Atacama",
+      "photo": "dune",
+      "bio": "Raised under the Chilean sky, he knows the southern objects by heart and can find them without a chart."
+    },
+    {
+      "name": "Nadia Okonkwo",
+      "role": "Guide · Astrophotography",
+      "photo": "salt",
+      "bio": "Her Milky Way work has run in National Geographic. She teaches the first exposure to people who have never held a camera."
+    },
+    {
+      "name": "Jonas Hill",
+      "role": "Guide · Observatories",
+      "photo": "dome",
+      "bio": "A former telescope operator on La Palma, he opens doors that are usually closed to visitors."
+    }
+  ]
+}

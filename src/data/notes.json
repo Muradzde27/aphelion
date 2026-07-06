@@ -1,0 +1,217 @@
+[
+  {
+    "slug": "waiting-for-a-clear-night",
+    "no": "01",
+    "title": "On the discipline of waiting for a clear night",
+    "author": "Elsa Valtonen",
+    "role": "Founder, astrophysicist",
+    "date": "Dec 2025",
+    "read": "8 min",
+    "cat": "Field craft",
+    "photo": "dusk",
+    "dek": "Three nights of cloud, and then the sky opened for forty minutes. What we learned about patience above the Arctic Circle.",
+    "body": [
+      {
+        "t": "p",
+        "x": "The forecast had promised nothing for three days, and it kept its promise. We sat in the lodge at Reine with the shutters open, watching cloud move across a sky we could not see, and I did what guides are not supposed to admit to: I doubted the whole enterprise."
+      },
+      {
+        "t": "p",
+        "x": "There is a particular arrogance in selling the sky. We print the departure dates, we quote the auroral index, we speak of the new moon as though we had arranged it. And then the weather, which answers to no brochure, does as it likes."
+      },
+      {
+        "t": "pull",
+        "x": "We no longer promise the aurora. We promise the attention it deserves, on whatever night it decides to arrive."
+      },
+      {
+        "t": "p",
+        "x": "On the fourth night the cloud thinned without ceremony. One of the group — a retired schoolteacher from Lyon who had never held a camera — was the first to notice the green. Not the postcard green, at first, but a grey that was somehow lit from within, the way a room is lit before you find the lamp."
+      },
+      { "t": "h", "x": "Forty minutes" },
+      {
+        "t": "p",
+        "x": "It lasted forty minutes. I know because I have the frames, time-stamped, and because forty minutes is exactly long enough to change what a person expects from a holiday. Nobody spoke much. The teacher cried, quietly, and was not embarrassed, and neither were we."
+      },
+      {
+        "t": "p",
+        "x": "This is the argument for the small group and the slow week. You cannot schedule that quarter-hour; you can only be ready for it, warm and awake and unhurried, with the telescope already trained and the shutter already set. Everything we do — the reserve nights, the limit of twelve, the refusal to guarantee — is in service of being ready."
+      },
+      {
+        "t": "p",
+        "x": "We drove back before dawn along the single road, and no one asked whether we would see it again the next night. They had understood the thing that takes most travellers a lifetime: that the waiting is not the price of the sky. The waiting is part of the sky."
+      }
+    ]
+  },
+  {
+    "slug": "why-we-stopped-promising-the-aurora",
+    "no": "02",
+    "title": "Why we stopped promising the aurora",
+    "author": "Elsa Valtonen",
+    "role": "Founder, astrophysicist",
+    "date": "Nov 2025",
+    "read": "6 min",
+    "cat": "Ethics",
+    "photo": "ice",
+    "dek": "A quiet argument against the guarantee, and for the honest expedition.",
+    "body": [
+      {
+        "t": "p",
+        "x": "There is a sentence I wrote in 2015 that I have spent most of a decade taking back: “Northern lights guaranteed — or your next trip free.” It ran in our second season's brochure, and it worked. Bookings doubled. It was also the worst thing I have done to a night sky."
+      },
+      {
+        "t": "p",
+        "x": "The guarantee changed how people stood under the sky. They checked their phones against the Kp index like a scoreboard. A quiet green arc at midnight — a thing our grandparents would have knelt for — read as a partial refund. Cloud was a breach of contract. I had taken the one experience that cannot be owed and put it on an invoice."
+      },
+      {
+        "t": "pull",
+        "x": "A guarantee turns the sky into a product. Attention is the only thing we can honestly sell."
+      },
+      {
+        "t": "p",
+        "x": "Here is the honest arithmetic. More than nine in ten of our northern groups see the aurora at some point in the week. That number is real, and it hides everything that matters: the difference between a faint glow behind haze and the corona overhead that ends conversations. No operator controls which one you get. Anyone who says otherwise is selling the average, and you will not be standing under the average."
+      },
+      { "t": "h", "x": "What we say instead" },
+      {
+        "t": "p",
+        "x": "So we changed the sentence. What we promise now is the set of things that are actually ours to give: a site inside the auroral oval with a dark horizon in every direction, a departure set to the new moon, a reserve night held empty in the middle of the week, and a guide who is awake, dressed and watching at three in the morning so that you can be woken for the real thing and not for a rumour."
+      },
+      {
+        "t": "p",
+        "x": "Commercially, honesty is slower. The guarantee sold trips to people who wanted a receipt; the plain sentence sells them to people who want a sky, and there are fewer of those. But they come back, and they send us their friends, and nobody has asked me for a refund on the weather in eight years."
+      },
+      {
+        "t": "p",
+        "x": "Last February, at the end of a week with two clouded nights, a guest thanked me for the evening the sky stayed shut — the lecture, the long dinner, the walk in the blue dark. That is the trip I want to run. The aurora, when it comes, is the guest of honour. It was never the host."
+      }
+    ]
+  },
+  {
+    "slug": "reading-the-bortle-scale",
+    "no": "03",
+    "title": "Reading the Bortle scale like a map",
+    "author": "Mateo Reyes",
+    "role": "Lead guide, Atacama",
+    "date": "Oct 2025",
+    "read": "11 min",
+    "cat": "Instruments",
+    "photo": "dune",
+    "dek": "How we choose a site, and what the numbers actually measure once you are standing under them.",
+    "body": [
+      {
+        "t": "p",
+        "x": "In 2001, an American comet observer named John Bortle published a nine-step scale in Sky & Telescope, mostly out of frustration: amateurs kept describing their skies as dark when what they meant was familiar. Class 9 is the centre of a city, where the sky is a ceiling. Class 1 is the sky as it existed before electricity. Nearly everyone alive today lives past the middle of the scale and has never once stood at its far end."
+      },
+      {
+        "t": "p",
+        "x": "The classes people know are the bad ones. Class 7 or 8 is most suburbs: a few dozen stars, the moon and planets, a sky that is grey rather than black. Class 5 is a good rural village — the Milky Way appears on the best nights, washed out low down. Class 4 is where most 'dark sky' tourism actually happens, and it is genuinely lovely, and it is not what this scale was written for."
+      },
+      { "t": "h", "x": "The last three classes" },
+      {
+        "t": "p",
+        "x": "Class 3 is where the sky stops being a backdrop. The Milky Way shows structure — rifts, clots, dark lanes. Class 2 adds the zodiacal light, a tilted cone of sunlight scattered off interplanetary dust, bright enough to be mistaken for a distant town's glow. And class 1 is the strangest of them: airglow visible along the horizon, the galaxy in Andromeda obvious without optics, and the Milky Way casting an actual shadow — your own shadow — onto pale ground. In the Atacama I have watched first-time visitors ask, in complete seriousness, what all the clouds were. There were no clouds."
+      },
+      {
+        "t": "pull",
+        "x": "Below class 3, darkness stops being an absence of light and becomes a presence of its own."
+      },
+      {
+        "t": "p",
+        "x": "When we survey a site, we do not trust the scale alone — it was written for the eye, and two careful observers under the same sky will argue over a class. We carry a sky quality meter and log readings across seasons: anything sustained above 21.7 magnitudes per square arcsecond is a serious sky, and our class 1 sites in Chile and Namibia hold 21.9 and better through the winter. Satellite light-pollution maps get us to the region; they lie at the edges, where a single mine or a new greenhouse can spoil a horizon between one year's data and the next."
+      },
+      {
+        "t": "p",
+        "x": "One reading of the numbers to be wary of, including ours: everyone in this trade quotes their best recorded night. We print the worst honest number instead — the sky you should expect, not the one we brag about. If a site cannot hold its class on an ordinary moonless Tuesday, it does not go in the catalogue."
+      },
+      {
+        "t": "p",
+        "x": "The scale is a map, and the usual warning applies: the map is not the territory. The difference between reading 'class 1' and standing in it is the difference between a tide table and the sea. Go and stand in it once. The number will never again be the point."
+      }
+    ]
+  },
+  {
+    "slug": "a-short-history-of-the-observatory-tour",
+    "no": "04",
+    "title": "A short history of the observatory tour",
+    "author": "Jonas Hill",
+    "role": "Guide, observatories",
+    "date": "Sep 2025",
+    "read": "9 min",
+    "cat": "History",
+    "photo": "dome",
+    "dek": "From Herschel's garden to Roque de los Muchachos — how amateurs were let back in.",
+    "body": [
+      {
+        "t": "p",
+        "x": "The planet Uranus was found from a back garden in Bath, on the night of 13 March 1781, by a church organist using a telescope he had built at home. William Herschel's neighbours could, and did, wander over to look. For most of its history astronomy was like this: domestic, sociable, conducted at the end of the vegetable rows."
+      },
+      {
+        "t": "p",
+        "x": "Then the instruments outgrew the gardens. Through the twentieth century the great telescopes climbed to places nobody lives — Mount Wilson, then Palomar, then the high volcanic islands — and the doors closed behind them. This was not snobbery, mostly. A modern dome is a working factory floor with a queue of research proposals measured in years, and a visitor with a torch can spoil a night worth tens of thousands. But the effect was the same: for two or three generations, the public that paid for the mirrors never stood under them."
+      },
+      { "t": "h", "x": "The doors reopen" },
+      {
+        "t": "p",
+        "x": "The turn came quietly, in the 1980s, and one of its landmarks is legal rather than architectural: La Palma's Ley del Cielo of 1988, the first law in the world written to protect a sky. Streetlamps were shielded and dimmed, flight paths moved. The island had decided its darkness was infrastructure. Visitor programmes followed at the Roque, at Kitt Peak, at Paranal — daytime at first, and daytime still, for good reason."
+      },
+      {
+        "t": "pull",
+        "x": "The great telescopes were paid for in public money and built in the dark. It is right that the public should stand under them — by daylight."
+      },
+      {
+        "t": "p",
+        "x": "I worked eleven years as a telescope operator on La Palma, and the question I was asked most often on tours is the one I want to answer here: no, you cannot look through it. Not because of rules — because there is nothing to look through. A ten-metre telescope has no eyepiece; the light falls onto instruments the size of vans, and the astronomer is often not even on the island. I have watched faces fall at this news, and then watched the same faces an hour later, standing on the service floor under four hundred tonnes of moving steel, entirely converted."
+      },
+      {
+        "t": "p",
+        "x": "Because that is what the tour is actually for. Not the view through the instrument, but the scale of the commitment: the coats in the corridor, the snow gates, the logbooks, the sound a dome makes when it turns — a low freight-train note you feel in your chest. It is the most persuasive argument I know that the sky is worth this much trouble."
+      },
+      {
+        "t": "p",
+        "x": "And then, at sunset, the professionals go to work and we do the correct thing: we leave. We drive down the mountain to our own small telescopes, which do have eyepieces, and we point them at the same sky. Herschel would have recognised the arrangement at once — the big science up the hill, and the wonder at the bottom of the garden."
+      }
+    ]
+  },
+  {
+    "slug": "the-camera-you-already-own",
+    "no": "05",
+    "title": "The camera you already own",
+    "author": "Nadia Okonkwo",
+    "role": "Guide, astrophotography",
+    "date": "Aug 2025",
+    "read": "7 min",
+    "cat": "Photography",
+    "photo": "salt",
+    "dek": "You do not need a telescope to keep the night. Notes on the first exposure.",
+    "body": [
+      {
+        "t": "p",
+        "x": "Before every departure, the same email arrives: what camera should I buy? And every time, the same answer goes back: none. Bring the phone in your pocket. If you own any camera made in the last decade, bring that. The sky does not check equipment at the door."
+      },
+      {
+        "t": "p",
+        "x": "The plain facts first. Any recent phone in night mode, held against a rock or screwed to a ten-euro clamp, will record the Milky Way from a class 1 or 2 site. It will be noisy at full size, soft in the corners, and it will show more stars than your eye can hold at once. What a phone cannot do is resolve — the star clusters, the nebulae, the fine grain of the core. For that you need dedicated glass, and that is precisely why we carry it for you."
+      },
+      { "t": "h", "x": "The first exposure" },
+      {
+        "t": "p",
+        "x": "With a camera, the recipe for a first frame has four lines and has not changed in years. Widest lens, aperture all the way open. Focus by hand on the brightest star — autofocus will hunt and lie. Twenty seconds, no longer, or the stars begin to trail. ISO 3200 and courage. Everything after that is taste; nothing after that is required."
+      },
+      {
+        "t": "pull",
+        "x": "The first frame is not for anyone else. It is proof that you were there, addressed to the person you were before you went."
+      },
+      {
+        "t": "p",
+        "x": "What I ask of beginners is only this: do not buy anything before the first trip. I have watched too many travellers spend the price of the expedition on a camera they met three days earlier, then spend the dark hours fighting its menus with cold fingers. Use ours — the tripods, the fast lenses, the cable releases. Decide afterwards, at home, in the warm, whether this is your craft. About half find it is. The rest keep four good frames and their whole attention, which is the better trade."
+      },
+      {
+        "t": "p",
+        "x": "And one night in every expedition, by house rule, the cameras stay in their bags. Elsa instituted this after watching a guest photograph an entire auroral display through a viewfinder and, in a real sense, miss it. The eye adapts for thirty minutes and then sees what no sensor renders: the depth, the speed, the silence. No frame from that night exists, and nobody has ever complained."
+      },
+      {
+        "t": "p",
+        "x": "Twenty seconds at ISO 3200 will show you more stars than your eye can carry. Whether you need to keep them — that is a question worth taking outside."
+      }
+    ]
+  }
+]

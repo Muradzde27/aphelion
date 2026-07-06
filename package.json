@@ -1,0 +1,46 @@
+{
+  "name": "aphelion",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Aphelion — astronomical expeditions to the darkest skies on Earth. Editorial multi-page site built with React 18, Vite and a small Express mock API.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c yellow,cyan \"npm:server\" \"npm:web\"",
+    "web": "vite",
+    "server": "node server/index.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "images": "node scripts/generate-images.mjs && node scripts/optimize-images.mjs",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@playwright/test": "^1.61.1",
+    "@vitejs/plugin-react": "^4.4.1",
+    "concurrently": "^9.1.2",
+    "eslint": "^9.25.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "pdf-lib": "^1.17.1",
+    "prettier": "^3.5.3",
+    "sharp": "^0.35.3",
+    "vite": "^6.3.5"
+  }
+}

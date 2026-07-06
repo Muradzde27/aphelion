@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aphelion — Astronomical Expeditions</title>
+    <meta
+      name="description"
+      content="Small, slow expeditions to the last genuinely dark places on Earth — guided by working astronomers, measured against the phases of the moon."
+    />
+    <meta name="theme-color" content="#F4F1EA" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Aphelion" />
+    <meta property="og:title" content="Aphelion — Astronomical Expeditions" />
+    <meta
+      property="og:description"
+      content="Small, slow expeditions to the last genuinely dark places on Earth — guided by working astronomers, measured against the phases of the moon."
+    />
+    <meta property="og:image" content="/og-image.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Self-hosted type (public/fonts) — no font CDN at runtime. -->
+    <link
+      rel="preload"
+      href="/fonts/newsreader-latin-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/archivo-latin-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+  </head>
+  <body>
+    <script>
+      // Apply the stored red-light theme before first paint — no flash.
+      try {
+        if (localStorage.getItem('aphelion-theme') === 'night') {
+          document.documentElement.dataset.theme = 'night';
+        }
+      } catch (e) {
+        /* storage unavailable — default to daylight */
+      }
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

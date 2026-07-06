@@ -1,0 +1,62 @@
+[
+  {
+    "no": "01",
+    "name": "Aoraki Mackenzie",
+    "region": "New Zealand",
+    "coord": "43°S",
+    "bortle": "Bortle 1",
+    "photo": "ridge",
+    "note": "One of the largest gold-tier dark sky reserves on Earth, ringed by the Southern Alps. The Southern Cross circles the pole here all year, and the winter air off the glaciers is optically superb.",
+    "expeditionId": null
+  },
+  {
+    "no": "02",
+    "name": "NamibRand",
+    "region": "Namibia",
+    "coord": "25°S",
+    "bortle": "Bortle 1",
+    "photo": "dune",
+    "note": "Africa's first dark sky reserve; the desert absorbs what little light remains. The nearest permanent lamp is beyond the horizon in every direction — a claim almost nowhere else can make.",
+    "expeditionId": "namibrand"
+  },
+  {
+    "no": "03",
+    "name": "Atacama",
+    "region": "Chile",
+    "coord": "23°S",
+    "bortle": "Bortle 1",
+    "photo": "salt",
+    "note": "The driest desert on Earth and, by many measures, the clearest sky. Three hundred cloudless nights a year, and air so stable the professionals put their largest mirrors here.",
+    "expeditionId": "atacama"
+  },
+  {
+    "no": "04",
+    "name": "La Palma",
+    "region": "Canary Islands",
+    "coord": "28°N",
+    "bortle": "Bortle 2",
+    "photo": "dome",
+    "note": "Protected by law since 1988 — the world's first sky legislation. Above the trade-wind cloud, the air over the Roque is treated as what it is: a scientific instrument.",
+    "expeditionId": "la-palma"
+  },
+  {
+    "no": "05",
+    "name": "Lofoten",
+    "region": "Norway",
+    "coord": "68°N",
+    "bortle": "Bortle 2",
+    "photo": "dusk",
+    "note": "Deep inside the auroral oval, where winter nights are nearly whole and the lights stand overhead rather than on the horizon. The sea keeps the cold honest and the air clean.",
+    "expeditionId": "lofoten-nights"
+  },
+  {
+    "no": "06",
+    "name": "Kerry",
+    "region": "Ireland",
+    "coord": "52°N",
+    "bortle": "Bortle 2",
+    "photo": "ice",
+    "note": "A gold-tier reserve on the Atlantic edge of Europe, rare for its latitude. Between weather fronts the sky is startling — and the weather fronts are part of the education.",
+    "expeditionId": null
+  }
+]
